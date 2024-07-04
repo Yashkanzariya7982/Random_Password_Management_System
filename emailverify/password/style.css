@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.btn{ 
+    padding: 8px 17px;
+    background: black;
+    color: white;
+    font-weight: 900;
+    border: 2px solid gray;
+    border-radius: 8px;
+    margin: 10px 0;
+    cursor: pointer;
+}
+
+body{
+    background-color:#afc1d3;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+    min-height: 100vh;
+  }
+
+
+  
